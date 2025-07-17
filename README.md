@@ -1,6 +1,6 @@
 # Nuxt 3 + Firebase Authentication Tutorial: Google and Email Login
 
-Read the full tutorial [here]().
+Read the full tutorial [here](https://www.djamware.com/post/6878694699967404fd74ac4d/nuxt-3-firebase-authentication-tutorial-google-and-email-login).
 
 Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
